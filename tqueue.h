@@ -1,6 +1,3 @@
-//
-// Created by Mohammad Danish Khan on 10/12/17.
-//
 
 #ifndef ADTSTACK_TQUEUE_H
 #define ADTSTACK_TQUEUE_H
